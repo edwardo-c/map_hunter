@@ -7,7 +7,8 @@ import pandas as pd
 STANDARD_COLUMNS = [
     'SKU', 
     'Product URL',
- 	'MAP Price',
+ 	'MAP',
+    'Price',
     'Seller',
     'PDF'
     ]
